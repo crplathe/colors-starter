@@ -73,6 +73,10 @@ footer {
 
   #column-3 {
     background-color: peachpuff;
+    width: 100%;
+  }
+  .col-3 {
+    width: 50%;
   }
 
   footer {
@@ -87,7 +91,6 @@ footer {
   header {
     background-color: white;
   }
-
   #column-1 {
     background-color: purple;
   }
@@ -98,8 +101,11 @@ footer {
 
   #column-3 {
     background-color: papayawhip;
+    width: 33.3%;
   }
-
+  .col-3 {
+    width: 33.3%;
+  }
   footer {
     background-color: palegoldenrod;
   }
